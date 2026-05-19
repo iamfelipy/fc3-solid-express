@@ -44,7 +44,7 @@ class Movie
     }
 
 
-    public function setCategory(DramaCategory $category)
+    public function setCategory(Category $category)
     {
         $this->category= $category;
     }
