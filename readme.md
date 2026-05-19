@@ -1,5 +1,8 @@
 # solid
 
+![SOLID Principles](docs/solid.png)
+
+
 - É um conjunto de **5 princípios** de orientação a objetos.
 	- Um princípio é uma regra ou orientação fundamental que serve de base para tomar decisões e orientar comportamentos ou práticas em determinada área, como programação.
 	- Orientação é o ato de direcionar, guiar ou indicar um caminho, regra ou conduta a ser seguida para atingir determinado objetivo ou realizar uma atividade de forma correta.
